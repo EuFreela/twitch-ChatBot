@@ -44,21 +44,15 @@ O chatbot faz requisições à API local do Llama. As requisições são feitas 
 
 ### 2. Configuração da Twitch (IRC)
 
-Para conectar seu bot à Twitch, você precisa gerar um token de autenticação. Siga os passos abaixo para configurar a Twitch com o **hackersBashTwitchBot**:
+Para conectar seu bot à Twitch, você precisa gerar um token de autenticação. Siga os passos abaixo para configurar a Twitch:
 
 #### 2.1. Gerar Token de Autenticação
 
 1. Acesse [TwitchApps TMI](https://twitchapps.com/tmi/) e gere seu token OAuth.
 2. Esse token será usado no arquivo de configuração para conectar o bot à Twitch.
+3. Se preferir desinstalar entre no seu canal em [configuracoes, clique aqui](https://www.twitch.tv/settings/connections), role o mouse e busque por **Twitch Chat OAuth Token Generator**. Clique no botão **desligar**
 
-#### 2.2. Clonar o Projeto do Bot IRC
-
-Clone o projeto **hackersBashTwitchBot** para configurar a conexão IRC com a Twitch:
-```bash
-git clone https://github.com/tixlegeek/hackersBashTwitchBot.git
-```
-
-#### 2.3. Configurar o Bot
+#### 2.2. Configurar o Bot
 
 Edite o arquivo de configuração do bot com o token gerado e os detalhes do canal da Twitch. No seu arquivo Python, configure a conexão usando o token e o nome de usuário da Twitch:
 
