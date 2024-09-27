@@ -2,6 +2,10 @@
 
 **TwitchChatBot** é um chatbot interativo para Twitch, projetado para simular conversas entre múltiplos bots e interagir com espectadores em tempo real. Ele alterna automaticamente entre vários temas e utiliza a API do Llama para gerar respostas realistas, criando uma experiência de chat dinâmica e envolvente.
 
+A utilização de IA em bots de chat pode ser uma ótima ferramenta para manter a conversa fluindo em canais menores da Twitch. No entanto, é importante ajustar seu prompt para garantir que esteja em conformidade com as políticas da plataforma. Além disso, você pode integrar um chatbot como o [Nightbot](https://nightbot.tv/) para ajudar na moderação e gerenciamento do chat, garantindo um ambiente mais controlado. Embora os bots ajudem a criar movimento no canal, eles não substituem a interação com pessoas reais. 
+
+Este projeto foi desenvolvido como uma alternativa às APIs pagas e com limitações, como o ChatGPT e o [Cohere](https://cohere.com/). Usando o LLaMA localmente, você terá um chatbot rodando em seu próprio computador, sem restrições de uso ou limites de chamadas, pelo menos por enquanto.
+
 ### Principais Funcionalidades:
 
 - **Chat Automatizado**: Simula interações realistas entre bots no chat da Twitch.
