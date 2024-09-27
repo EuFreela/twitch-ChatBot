@@ -80,6 +80,7 @@ CHANNEL = "#nome_do_canal"
    ```
 3. **Customização de Temas**: Personalize os temas e emojis no código para adequar o chatbot ao seu canal.
 4. **Twitch**: entre no seu canal, Gestor de Transmissões. Inicie o chat com alguma frase. O chat será iniciado.
+5. **Barrar o chat**: abra o powershell e digite: **Stop-Process -Name python -Force**
 ---
 
 ### Contribuições
