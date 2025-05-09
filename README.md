@@ -1,4 +1,4 @@
-# TwitchChatBot 🤖
+# Twitch-Chat-Bot 🤖
 
 **TwitchChatBot** é um chatbot interativo para Twitch, projetado para simular conversas entre múltiplos bots e interagir com espectadores em tempo real. Ele alterna automaticamente entre vários temas e utiliza a API do Llama para gerar respostas realistas, criando uma experiência de chat dinâmica e envolvente.
 
